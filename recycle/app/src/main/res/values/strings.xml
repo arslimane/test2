@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">recycle</string>
+    <string-array name="title">
+        <item>title1</item>
+        <item>title2</item>
+        <item>title3</item>
+        <item>title4</item>
+        <item>title5</item>
+    </string-array>
+    <string-array name="text">
+        <item>tejnhjihnxjknksdfaf1</item>
+        <item>titleasdasdasdqawdsfsegweg2</item>
+        <item>title3wdfwefwewg</item>
+        <item>title4wfwefw</item>
+        <item>title5wefwefwef</item>
+    </string-array>
+    <string-array name="category">
+        <item>c1</item>
+        <item>c2</item>
+        <item>c3</item>
+        <item>c4</item>
+        <item>c5</item>
+    </string-array>
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
